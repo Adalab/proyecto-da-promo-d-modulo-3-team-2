@@ -40,6 +40,11 @@ pip install -r requirements.txt
 
 💪 **Retos y Logros:** Garantizar la calidad de los datos y transformar la información en recomendaciones accionables para mejorar la experiencia de los empleados.
 
+Uno de los mayores retos ha sido garantizar la calidad de los datos y la creación de modelos predictivos precisos. Este proceso ha permitido al equipo desarrollar soluciones efectivas y basadas en evidencias.
+
+El aspecto que más orgullo genera en el equipo es la capacidad de transformar datos en recomendaciones concretas que pueden mejorar significativamente la experiencia de los empleados en la empresa.
+
+
  **Fases del Proyecto**
 
 1.  **Análisis Exploratorio de Datos (EDA)**
