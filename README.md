@@ -58,6 +58,11 @@ Inserción de Datos Iniciales: Se han insertado los datos de plantilla de la emp
 4.  **Creación de una ETL (automatización de la carga y transformación de datos)** El objetivo de esta etapa fue automatizar la inserción de datos en la base de datos relacional y garantizar que la información se actualiza de manera consistente y también automatizar el proceso de transformación de la información antes de la inserción en la BBDD.
 
 5.  **Reporte de los Resultados (con visualizaciones en Python)** El objetivo de esta fase es proporcionar a ABC Corporation un informe detallado del contexto general de la empresa utilizando visualizaciones en Python. Este informe permite una comprensión más profunda de la situación actual y sirve como base para la toma de decisiones informadas.
+  
+6.  **Presentación** La presentación de los resultados se ha elaborado en Canva, utilizando una paleta de colores suaves y elegantes que evocan la estética del Sakura japonés.
+
+   https://www.canva.com/design/DAGicitWgzE/iurGDvUvIuRpG91ONmScJQ/edit
+    
 
 
 🤝 **Equipo:**
