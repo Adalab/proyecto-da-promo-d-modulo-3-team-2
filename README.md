@@ -14,7 +14,7 @@ En este proyecto, exploramos, transformamos y visualizamos los datos proporciona
 ├── Transformando_el_talento_Final.csv
 ├── Visualizacion_Final.ipynb
 ├── BONUS 1 - Conexion Py-SQL.ipynb
-├── BONUS 2 - Creación de una ETL.md
+├── BONUS 2 - Creación de una ETL.py
 └── README.md
 ```
 
