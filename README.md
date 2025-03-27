@@ -10,9 +10,9 @@ En este proyecto, exploramos, transformamos y visualizamos los datos proporciona
 
 ```
 .
-├── EDA y limpieza.Final.ipynb
+├── EDA y limpieza_Final.ipynb
 ├── Transformando_el_talento_Final.csv
-├── Visualizacion.Final.ipynb
+├── Visualizacion_Final.ipynb
 ├── BONUS 1 - Conexion Py-SQL.ipynb
 ├── BONUS 2 - Creación de una ETL.md
 └── README.md
