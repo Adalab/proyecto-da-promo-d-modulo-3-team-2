@@ -1,8 +1,13 @@
 Análisis de Satisfacción y Retención de los Empleados en la empresa ABC Corporation
 
 Descripción:
+
 En el entorno empresarial altamente competitivo de hoy en día, la retención de empleados y la satisfacción en el trabajo son cuestiones críticas para cualquier organización, ya que afectan directamente a la productividad, el compromiso y la motivación de los trabajadores, y por ende a la rentabilidad.
-Con el objetivo de reducir la rotación de personal y mejorar la satisfacción en el trabajo de los empleados de ABC Corporation, nuestra empresa, Ikigai Nexus, ha sido contratada para desarrollar un proyecto de análisis de datos. Nuestra misión fue identificar factores clave que influyen en la satisfacción en el trabajo y, en última instancia, en la retención del talento de la empresa.
+
+Con el objetivo de reducir la rotación de personal y mejorar la satisfacción en el trabajo de los empleados de ABC Corporation, nuestra empresa, Ikigai Nexus, ha sido contratada para desarrollar un proyecto de análisis de datos. 
+
+Nuestra misión fue identificar factores clave que influyen en la satisfacción en el trabajo y, en última instancia, en la retención del talento de la empresa.
+
 En este repositorio, presentamos los resultados de nuestro análisis exploratorio de los datos que nos ha proporcionado ABC, transformación de los datos, visualizaciones, diseño de BBDD y creación de una ETL. 
 
 Estructura del proyecto: 
