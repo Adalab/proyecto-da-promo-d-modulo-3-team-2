@@ -32,11 +32,11 @@ pip install -r requirements.txt
 
 🔍 **Análisis Principales:**
 
-* **Distribución de Género** Análisis de la distribución de género en la empresa.
-* **Imputación y Detección de Valores Nulos** Imputación de valores nulos en variables numéricas y categóricas.
-* **Homogeneización de Columnas** No se detectaron valores duplicados. Renombrado y limpieza de nombres de columnas.
-* **Creación de Base de Datos MySQL**  Creación de una base de datos MySQL para almacenar la información procesada.
-* **Visualizaciones (Histplot, Boxplot, Barplot, etc.)**
+* **Distribución de Género**: Análisis de la distribución de género en la empresa.
+* **Imputación y Detección de Valores Nulos**: Imputación de valores nulos en variables numéricas y categóricas.
+* **Homogeneización de Columnas**: No se detectaron valores duplicados. Renombrado y limpieza de nombres de columnas.
+* **Creación de Base de Datos MySQL**:  Creación de una base de datos MySQL para almacenar la información procesada.
+* **Visualizaciones: (Histplot, Boxplot, Barplot, etc.)**
 
 💪 **Retos y Logros:** Garantizar la calidad de los datos y transformar la información en recomendaciones accionables para mejorar la experiencia de los empleados.
 
