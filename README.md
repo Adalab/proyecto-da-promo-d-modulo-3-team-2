@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 💪 **Retos y Logros:** Garantizar la calidad de los datos y transformar la información en recomendaciones accionables para mejorar la experiencia de los empleados.
 
- مراحل **Fases del Proyecto:**
+ **Fases del Proyecto**
 
 1.  **Análisis Exploratorio de Datos (EDA)**
 2.  **Transformación de los Datos**
